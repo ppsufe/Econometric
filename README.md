@@ -1,5 +1,5 @@
 # Econometric
-Record about empirical method\
+Record about empirical method \
 
 ## Measurement error  
 Key Definition: 1) Classical Measurement 2) Attenuation Bias \
